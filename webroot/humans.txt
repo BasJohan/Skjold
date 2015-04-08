@@ -1,0 +1,1 @@
+Skjold is a PHP-boilerplate/framework for small websites. Skjold is based on Anax by Mikael Roos (me@mikaelroos.se). Skjold is developed as a part of the course OOPHP http://dbwebb.se/oophp (swedish). Skjold is developed by Johan Nilsson.
